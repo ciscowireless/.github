@@ -1,6 +1,6 @@
 ## ciscowireless
 
-Collection of wireless automation assets created by Cisco wireless engineers & architects.
+Wireless automation assets created by Cisco wireless engineers & architects.
 
 May contain both internal (Cisco) and external (public) repositories.
 
